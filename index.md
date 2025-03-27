@@ -17,6 +17,11 @@ I am an undergraduate student at IIIS, Tsinghua University
 - **[Nov. 2024]** Received the Comprehensive Excellence Award
 - **[Nov. 2023]** Received the Comprehensive Excellence Award
 
+## Education
+
+- B.S. in Computer Science 2022-2026 (expected)<br>
+  Institute for Interdisciplinary information sciences, Tsinghua University<br>
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
