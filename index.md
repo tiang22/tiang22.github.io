@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a undergraduate student at IIIS, Tsinghua University
+I am an undergraduate student at IIIS, Tsinghua University
 
 ## Research Interests
 
