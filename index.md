@@ -8,15 +8,14 @@ I am an undergraduate student at IIIS, Tsinghua University
 
 ## Research Interests
 
-- **Theoretical Computer Science:** algorithms, especially quantum algorithms, complexity theory and cryptography
-- **Deep Learning:** AI for science, LLMs, quantum machine learning
+- **Theoretical Computer Science:** Algorithms, especially Quantum Algorithms, Complexity Theory and Cryptography
+- **Deep Learning:** AI for Science, LLMs, Quantum Machine Learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Mar. 2025]** Currently abroad in the US, will return on Aug. 1st!
+- **[Nov. 2024]** Received the Comprehensive Excellence Award
+- **[Nov. 2023]** Received the Comprehensive Excellence Award
 
 {% include_relative _includes/publications.md %}
 
