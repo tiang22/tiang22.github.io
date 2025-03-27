@@ -8,8 +8,8 @@ I am an undergraduate student at IIIS, Tsinghua University
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Theoretical Computer Science:** algorithms, especially quantum algorithms, complexity theory and cryptography
+- **Deep Learning:** AI for science, LLMs, quantum machine learning
 
 ## News
 
